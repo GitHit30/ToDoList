@@ -21,8 +21,22 @@ A beautiful, responsive to-do application built with React and styled with Tailw
 
 ## 🚀 Demo
 
-> **🔗 Add your live demo link here once deployed**  
-> **📱 Screenshots coming soon - take them from your running app!**
+> **🎥 (https://drive.google.com/file/d/1upU7bEkagZzfmuGbierb4Bk4kvCC8NCB/view?usp=sharing)
+
+<img width="1078" height="425" alt="image" src="https://github.com/user-attachments/assets/fb4473df-d913-4a6b-bb6b-c85b5f6eeee6" />
+
+
+<img width="1036" height="693" alt="image" src="https://github.com/user-attachments/assets/0dab5c3e-81d6-4438-ab94-dff834198f3b" />
+
+
+<img width="778" height="460" alt="image" src="https://github.com/user-attachments/assets/d8dcf461-3d92-4837-aa87-8fc372dfa04e" />
+
+
+<img width="825" height="735" alt="image" src="https://github.com/user-attachments/assets/3715a529-c08b-49ce-bd2b-0c1faef585a9" />
+
+
+
+
 
 ## 🛠️ Tech Stack
 
