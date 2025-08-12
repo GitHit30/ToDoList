@@ -37,8 +37,8 @@ A beautiful, responsive to-do application built with React and styled with Tailw
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/daily-flow-todo.git
-cd daily-flow-todo
+git clone https://github.com/GitHit30/ToDoList
+cd ToDoList
 ```
 
 2. Open `index.html` in your browser or serve it locally:
@@ -59,8 +59,8 @@ php -S localhost:8000
 
 1. Clone and install dependencies:
 ```bash
-git clone https://github.com/your-username/daily-flow-todo.git
-cd daily-flow-todo
+git clone https://github.com/GitHit30/ToDoList
+cd ToDoList
 npm install
 ```
 
