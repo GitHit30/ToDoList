@@ -21,22 +21,7 @@ A beautiful, responsive to-do application built with React and styled with Tailw
 
 ## 🚀 Demo
 
-> **🎥 (https://drive.google.com/file/d/1upU7bEkagZzfmuGbierb4Bk4kvCC8NCB/view?usp=sharing)
-
-<img width="1078" height="425" alt="image" src="https://github.com/user-attachments/assets/fb4473df-d913-4a6b-bb6b-c85b5f6eeee6" />
-
-
-<img width="1036" height="693" alt="image" src="https://github.com/user-attachments/assets/0dab5c3e-81d6-4438-ab94-dff834198f3b" />
-
-
-<img width="778" height="460" alt="image" src="https://github.com/user-attachments/assets/d8dcf461-3d92-4837-aa87-8fc372dfa04e" />
-
-
-<img width="825" height="735" alt="image" src="https://github.com/user-attachments/assets/3715a529-c08b-49ce-bd2b-0c1faef585a9" />
-
-
-
-
+> 📽️ Watch Demo   (https://drive.google.com/file/d/1upU7bEkagZzfmuGbierb4Bk4kvCC8NCB/view?usp=sharing)
 
 ## 🛠️ Tech Stack
 
@@ -216,7 +201,26 @@ npx vercel --prod
 
 ## 📸 Screenshots
 
-<img width="1270" height="822" alt="image" src="https://github.com/user-attachments/assets/28f39aeb-3d50-48f8-87ed-22cc233afc6e" />
+<img width="1078" height="425" alt="image" src="https://github.com/user-attachments/assets/fb4473df-d913-4a6b-bb6b-c85b5f6eeee6" />
+
+
+
+<img width="1036" height="693" alt="image" src="https://github.com/user-attachments/assets/0dab5c3e-81d6-4438-ab94-dff834198f3b" />
+
+
+
+<img width="1317" height="720" alt="image" src="https://github.com/user-attachments/assets/1c67e7a7-dee7-4a8d-a18a-ca6c3e8caec3" />
+
+
+
+<img width="825" height="735" alt="image" src="https://github.com/user-attachments/assets/3715a529-c08b-49ce-bd2b-0c1faef585a9" />
+
+
+
+
+
+
+
 
 
 ```markdown
