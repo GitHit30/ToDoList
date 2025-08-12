@@ -213,7 +213,7 @@ npx vercel --prod
 
 
 
-<img width="825" height="735" alt="image" src="https://github.com/user-attachments/assets/3715a529-c08b-49ce-bd2b-0c1faef585a9" />
+<img width="1300" height="800" alt="image" src="https://github.com/user-attachments/assets/5330dc16-ce0a-4800-832a-43d43565911d" />
 
 
 
@@ -223,16 +223,8 @@ npx vercel --prod
 
 
 
-```markdown
-### Desktop View
-![Desktop Screenshot](./screenshots/desktop-view.png)
 
-### Mobile View  
-![Mobile Screenshot](./screenshots/mobile-view.png)
 
-### Task Management
-![Task Management](./screenshots/task-management.png)
-```
 
 ## 🤝 Contributing
 
@@ -254,9 +246,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - Add comments for complex logic
 - Use semantic commit messages
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🎉 Acknowledgments
 
